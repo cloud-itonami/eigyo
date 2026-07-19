@@ -1,0 +1,4 @@
+{:schema "etzhayyim.repository/v1"
+ :name "com-etzhayyim-app-eigyo"
+ :kind :app
+ :canonical-metadata :edn}

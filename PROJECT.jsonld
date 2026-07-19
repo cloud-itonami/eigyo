@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Project",
+  "name": "Etzhayyim Eigyo",
+  "identifier": "etzhayyim-project-eigyo",
+  "url": "https://eigyo.etzhayyim.com/",
+  "description": "Salesforce相当の営業活動を、APQC/ISIC/ISCO分類と連動して運用するSpinApp。",
+  "keywords": [
+    "sales",
+    "crm",
+    "apqc",
+    "isic",
+    "isco",
+    "spinkube"
+  ]
+}
